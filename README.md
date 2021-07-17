@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @marcosavieira
 - 👀 Estou interessado em projetos com Python, Java, microserviços.
-- 🌱 Atualmente estou aprendendo Cybersegurança.
+- 🧑‍🎓Atualmente estou Cursando Cybersegurança na faculdade Unopar.
+- 👨‍🎓 BootCamp Santander, Bootcamp everis New Talents Java, Bootcamp Inter Android Developer
 
 <!---
 marcosavieira/marcosavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
