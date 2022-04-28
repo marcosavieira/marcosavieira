@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @marcosavieira
 - 👀 Estou interessado em projetos Front-End.
+- 👨‍DESENVOLVIMENTO DE SOFTWARE DDS T07---Cubos Academy
 - 🧑‍🎓Atualmente estou Cursando Cybersegurança na faculdade Unopar.
 - 👨‍🎓 Html5, Css3, Js (Curso online na escola Alura)
 
