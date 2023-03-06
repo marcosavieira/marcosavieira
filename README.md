@@ -53,7 +53,7 @@ Segue algumas imagens da aplicação.
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://i.imgur.com/wgaYx9U.png" alt="Botão de filtrar transações" style="width: 500px; height: auto;">
-  <span style="display: block; margin-top: 10px;">Ao clicar no botão de filtrar uma transação <img src="https://i.imgur.com/ES3s0Oo.png" style="width: 150px; height: auto;"></img>, ele permite ao usuário filtrar uma transação por uma categoria opcional.</span>
+  <span style="display: block; margin-top: 10px;">Ao clicar no botão de filtrar uma transação <img src="https://i.imgur.com/ES3s0Oo.png" style="width: 50px; height: auto;"></img>, ele permite ao usuário filtrar uma transação por uma categoria opcional.</span>
 </div>
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
