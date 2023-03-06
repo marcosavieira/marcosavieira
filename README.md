@@ -10,70 +10,69 @@ responsavel por toda parte do back-end e eu pelo front-end.
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>README</title>
-    <style>
-      /* Define o estilo da div externa */
-      .projeto-container {
-        max-height: 500px;
-        overflow-y: scroll;
-        border: 1px solid #ccc;
-        padding: 10px;
-      }
+<div>
+  <img src="https://i.imgur.com/2B4EG8B.png" alt="Linguagens e Bibliotecas">
+  <span>Linguagens de programação e bibliotecas usadas:</span>
+  
+    <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript">
+    <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React">
+    <img src="https://user-images.githubusercontent.com/16843090/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png" alt="Axios">
+    
+  
+</div>
 
-      /* Define o estilo das imagens */
-      img {
-        max-width: 100%;
-        height: auto;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Meu Projeto</h1>
+<div>
+  <img src="https://i.imgur.com/3P4ezcL.jpg" alt="Página de cadastro de usuário">
+  <span>Página para cadastro do usuário.</span>
+</div>
 
-    <div class="projeto-container">
-      <!-- Adicione o conteúdo do projeto aqui -->
-      <h2>Administração de Despesas Pessoais</h2>
+<div>
+  <img src="https://i.imgur.com/k3iwmZ7.png" alt="Página de login do usuário">
+  <span>Página de login do usuário.</span>
+</div>
 
-      <p>Esta é uma aplicação para administração de despesas pessoais.</p>
+<div>
+  <img src="https://i.imgur.com/cgCit3U.png" alt="Página principal da aplicação">
+  <span>Página principal da aplicação onde o usuário pode gerenciar suas tarefas.</span>
+</div>
 
-      <h3>Telas</h3>
+<div>
+  <img src="https://i.imgur.com/uDmjDIp.png" alt="Modal para adicionar tarefa">
+  <span>Ao clicar no botão adicionar tarefa um modal é aberto e permite ao usuário adicionar uma nova tarefa.</span>
+</div>
 
-      <h4>Página de Cadastro</h4>
-      <img src="https://i.imgur.com/3P4ezcL.jpg" alt="Página de Cadastro" />
+<div>
+  <img src="https://i.imgur.com/lhk52u2.png" alt="Modal para editar tarefa">
+  <span>Ao clicar no botão editar tarefa um modal é aberto e permite ao usuário editar uma tarefa.</span>
+</div>
 
-      <h4>Página de Login</h4>
-      <img src="https://i.imgur.com/k3iwmZ7.png" alt="Página de Login" />
+<div>
+  <img src="https://i.imgur.com/fjQP4kR.png" alt="Modal para editar perfil">
+  <span>Ao clicar no botão editar perfil um modal é aberto e permite ao usuário editar o seu perfil.</span>
+</div>
 
-      <h4>Página Principal</h4>
-      <img src="https://i.imgur.com/cgCit3U.png" alt="Página Principal" />
+<div>
+  <img src="https://i.imgur.com/wgaYx9U.png" alt="Botão de filtrar transações">
+  <span>Ao clicar no botão de filtrar uma transação, ele permite ao usuário filtrar uma transação por uma categoria opcional.</span>
+</div>
 
-      <h4>Adicionar Tarefa</h4>
-      <img src="https://i.imgur.com/uDmjDIp.png" alt="Adicionar Tarefa" />
+<div>
+  <img src="https://i.imgur.com/IWOrO71.png" alt="Botão para ordenar transações">
+  <span>Permite ao usuário listar as transações por ordem mais recente e mais antiga.</span>
+</div>
 
-      <h4>Editar Tarefa</h4>
-      <img src="https://i.imgur.com/lhk52u2.png" alt="Editar Tarefa" />
+<div>
+  <img src="https://i.imgur.com/BwFaZW9.png" alt="Botão para excluir transação">
+  <span>Exclui uma transação selecionada.</span>
+</div>
 
-      <h4>Editar Perfil</h4>
-      <img src="https://i.imgur.com/fjQP4kR.png" alt="Editar Perfil" />
+<div>
+  <img src="https://i.imgur.com/v0EaqOF.png" alt="Botão para deslogar usuário">
+  <span>Ao clicar para sair, o usuário é deslogado e seus dados são limpos do localStorage.</span>
+</div>
 
-      <h4>Filtrar Transação</h4>
-      <img src="https://i.imgur.com/wgaYx9U.png" alt="Filtrar Transação" />
-
-      <h4>Filtrar por Data</h4>
-      <img src="https://i.imgur.com/IWOrO71.png" alt="Filtrar por Data" />
-
-      <h4>Excluir Transação</h4>
-      <img src="https://i.imgur.com/BwFaZW9.png" alt="Excluir Transação" />
-
-      <h4>Logout</h4>
-      <img src="https://i.imgur.com/v0EaqOF.png" alt="Logout" />
-    </div>
-  </body>
-</html>
 <!---
 marcosavieira/marcosavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
