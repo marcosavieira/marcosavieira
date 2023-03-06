@@ -9,7 +9,7 @@ responsavel por toda parte do back-end e eu pelo front-end.
 
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
-
+<div style="display: flex; flex-wrap: wrap;">
 <div style="margin-top: 20px; margin-bottom: 20px;">
   <h4>Linguagens de programação e bibliotecas usadas:</h4>
   <div>
@@ -52,8 +52,8 @@ Segue algumas imagens da aplicação.
 </div>
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://i.imgur.com/wgaYx9U.png" alt="Botão de filtrar transações" style="width: 150px; height: auto;">
-  <span style="display: block; margin-top: 10px;">Ao clicar no botão de filtrar uma transação, ele permite ao usuário filtrar uma transação por uma categoria opcional.</span>
+  <img src="https://i.imgur.com/wgaYx9U.png" alt="Botão de filtrar transações" style="width: 500px; height: auto;">
+  <span style="display: block; margin-top: 10px;">Ao clicar no botão de filtrar uma transação <img src="https://i.imgur.com/ES3s0Oo.png" style="width: 150px; height: auto;"></img>, ele permite ao usuário filtrar uma transação por uma categoria opcional.</span>
 </div>
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
@@ -70,7 +70,7 @@ Segue algumas imagens da aplicação.
   <img src="https://i.imgur.com/v0EaqOF.png" alt="Botão para deslogar usuário" style="max-width: 150px; height: auto;">
   <span style="display: block; margin-top: 10px;">Ao clicar para sair, o usuário é deslogado e seus dados são limpos do localStorage.</span>
 </div>
-
+</div>
 <!---
 marcosavieira/marcosavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
