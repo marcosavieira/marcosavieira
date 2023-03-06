@@ -10,46 +10,70 @@ responsavel por toda parte do back-end e eu pelo front-end.
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
 
-![Sign-up](https://i.imgur.com/3P4ezcL.jpg)
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>README</title>
+    <style>
+      /* Define o estilo da div externa */
+      .projeto-container {
+        max-height: 500px;
+        overflow-y: scroll;
+        border: 1px solid #ccc;
+        padding: 10px;
+      }
 
-Página para cadastro do usuário.
+      /* Define o estilo das imagens */
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Meu Projeto</h1>
 
-![Sign-in](https://i.imgur.com/k3iwmZ7.png)
+    <div class="projeto-container">
+      <!-- Adicione o conteúdo do projeto aqui -->
+      <h2>Administração de Despesas Pessoais</h2>
 
-Pagina de login do usuário.
+      <p>Esta é uma aplicação para administração de despesas pessoais.</p>
 
-![Home](https://i.imgur.com/cgCit3U.png)
+      <h3>Telas</h3>
 
-Pagina principal da aplicação aonde o usuario pode gerenciar suas tarefas.
+      <h4>Página de Cadastro</h4>
+      <img src="https://i.imgur.com/3P4ezcL.jpg" alt="Página de Cadastro" />
 
-![Adicionar-tarefa](https://i.imgur.com/uDmjDIp.png)
+      <h4>Página de Login</h4>
+      <img src="https://i.imgur.com/k3iwmZ7.png" alt="Página de Login" />
 
-Ao clicar no botão adicionar tarefa um modal é aberto e permite ao usuário adicionar uma nova tarefa.
+      <h4>Página Principal</h4>
+      <img src="https://i.imgur.com/cgCit3U.png" alt="Página Principal" />
 
-![Editar-tarefa](https://i.imgur.com/lhk52u2.png)
+      <h4>Adicionar Tarefa</h4>
+      <img src="https://i.imgur.com/uDmjDIp.png" alt="Adicionar Tarefa" />
 
-Ao clicar no botão editar tarefa ![lapis-editar](https://i.imgur.com/tRPSY2H.png) um modal é aberto e permite ao usuário editar uma tarefa.
+      <h4>Editar Tarefa</h4>
+      <img src="https://i.imgur.com/lhk52u2.png" alt="Editar Tarefa" />
 
-![Editar-perfil](https://i.imgur.com/fjQP4kR.png)
+      <h4>Editar Perfil</h4>
+      <img src="https://i.imgur.com/fjQP4kR.png" alt="Editar Perfil" />
 
-Ao clicar no botão editar profile ![botao-profile](https://i.imgur.com/0GVdVpm.png) um modal é aberto e permite ao usuário editar o seu perfil.
+      <h4>Filtrar Transação</h4>
+      <img src="https://i.imgur.com/wgaYx9U.png" alt="Filtrar Transação" />
 
-![Filtrar-trasação](https://i.imgur.com/wgaYx9U.png)
+      <h4>Filtrar por Data</h4>
+      <img src="https://i.imgur.com/IWOrO71.png" alt="Filtrar por Data" />
 
-Ao clicar no botão de filtrar uma transação ![botao-filtro](https://i.imgur.com/ES3s0Oo.png), ele permite ao usuario filtrar uma transação por uma categoria opcional.
+      <h4>Excluir Transação</h4>
+      <img src="https://i.imgur.com/BwFaZW9.png" alt="Excluir Transação" />
 
-![fitrar-data](https://i.imgur.com/IWOrO71.png)
-
-Permite ao usuário listar as transações por ordem mais recente e mais antiga.
-
-![lixeira](https://i.imgur.com/BwFaZW9.png)
-
-Exclui uma transação selecionada
-
-![logOff](https://i.imgur.com/v0EaqOF.png)
-
-ao clicar para sair o usuario é deslogado e seus dados são limpos do localStorage
-
+      <h4>Logout</h4>
+      <img src="https://i.imgur.com/v0EaqOF.png" alt="Logout" />
+    </div>
+  </body>
+</html>
 <!---
 marcosavieira/marcosavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
