@@ -16,8 +16,8 @@ Segue algumas imagens da aplicação.
     <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html" style="max-width: 150px; height: auto;">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" style="max-width: 150px; height: auto;">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" style="max-width: 150px; height: auto;">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/react_js_logo_icon_168092.png" alt="React" style="max-width: 150px; height: auto;">
-    <img src="https://user-images.githubusercontent.com/43313420/105883616-57dbeb00-6007-11eb-9df2-de0e2a42655c.png" alt="Axios" style="max-width: 150px; height: auto;">
+    <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React" style="max-width: 150px; height: auto;">
+    <img src="https://user-images.githubusercontent.com/43313420/105883616-57dbeb00-6007-11eb-9df2-de0e2a42655c.png" alt="Axios" style="max-width: 50px; height: auto;">
   </div> 
 </div>
 
@@ -48,7 +48,7 @@ Segue algumas imagens da aplicação.
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://i.imgur.com/fjQP4kR.png" alt="Modal para editar perfil" style="max-width: 150px; height: auto;">
-  <span style="display: block; margin-top: 10px;">Ao clicar no botão editar perfil um modal é aberto e permite ao usuário editar o seu perfil.</span>
+  <span style="display: block; margin-top: 10px;">Ao clicar no botão editar <img src="https://i.imgur.com/0GVdVpm.png" /> perfil um modal é aberto e permite ao usuário editar o seu perfil.</span>
 </div>
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
