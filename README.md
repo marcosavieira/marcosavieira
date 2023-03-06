@@ -10,6 +10,20 @@ responsavel por toda parte do back-end e eu pelo front-end.
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
 
+<style>
+  div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  h4 {
+    margin-bottom: 5px;
+  }
+  img {
+    max-width: 100px;
+    height: auto;
+  }
+</style>
+
 <div>
   <span>Linguagens de programação e bibliotecas usadas:</span>
   <div>
@@ -17,7 +31,7 @@ Segue algumas imagens da aplicação.
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript">
     <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React">
-    <img src="https://user-images.githubusercontent.com/16843090/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png" alt="Axios">
+    <img src="https://user-images.githubusercontent.com/43313420/105883616-57dbeb00-6007-11eb-9df2-de0e2a42655c.png" alt="Axios">
    </div>
   
 </div>
