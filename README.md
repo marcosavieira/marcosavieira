@@ -14,7 +14,7 @@ Segue algumas imagens da aplicação.
 
 Página para cadastro do usuário.
 
-![Sign-in](https://i.imgur.com/k3iwmZ7)
+![Sign-in](https://i.imgur.com/k3iwmZ7.png)
 
 Pagina de login do usuário.
 
