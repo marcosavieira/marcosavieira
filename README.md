@@ -10,6 +10,8 @@ responsavel por toda parte do back-end e eu pelo front-end.
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
 
+<div>
+  
 <style>
   div {
     margin-top: 20px;
@@ -85,7 +87,7 @@ Segue algumas imagens da aplicação.
   <img src="https://i.imgur.com/v0EaqOF.png" alt="Botão para deslogar usuário">
   <span>Ao clicar para sair, o usuário é deslogado e seus dados são limpos do localStorage.</span>
 </div>
-
+</div>
 <!---
 marcosavieira/marcosavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
