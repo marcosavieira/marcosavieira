@@ -9,7 +9,8 @@ responsavel por toda parte do back-end e eu pelo front-end.
 
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;" "align-items: center";
+    "justify-content: space-around";>
 <div style="margin-top: 20px; margin-bottom: 20px;">
   <h4>Linguagens de programação e bibliotecas usadas:</h4>
   <div>
