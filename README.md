@@ -30,7 +30,7 @@ Ao clicar no botão adicionar tarefa um modal é aberto e permite ao usuário ad
 
 Ao clicar no botão editar tarefa ![lapis-editar](https://i.imgur.com/tRPSY2H.png) um modal é aberto e permite ao usuário editar uma tarefa.
 
-![Editar-perfil](https://i.imgur.com/fjQP4kR.pn)
+![Editar-perfil](https://i.imgur.com/fjQP4kR.png)
 
 Ao clicar no botão editar profile ![botao-profile](https://i.imgur.com/0GVdVpm.png) um modal é aberto e permite ao usuário editar o seu perfil.
 
