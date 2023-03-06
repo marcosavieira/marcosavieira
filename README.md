@@ -10,43 +10,43 @@ responsavel por toda parte do back-end e eu pelo front-end.
 Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
 
-![Sign-up](https://imgur.com/3P4ezcL)
+![Sign-up](https://i.imgur.com/3P4ezcL.jpg)
 
 Página para cadastro do usuário.
 
-![Sign-in](https://imgur.com/k3iwmZ7)
+![Sign-in](https://i.imgur.com/k3iwmZ7)
 
 Pagina de login do usuário.
 
-![Home](https://imgur.com/cgCit3U)
+![Home](https://i.imgur.com/cgCit3U)
 
 Pagina principal da aplicação aonde o usuario pode gerenciar suas tarefas.
 
-![Adicionar-tarefa](https://imgur.com/uDmjDIp)
+![Adicionar-tarefa](https://i.imgur.com/uDmjDIp)
 
 Ao clicar no botão adicionar tarefa um modal é aberto e permite ao usuário adicionar uma nova tarefa.
 
-![Editar-tarefa](https://imgur.com/lhk52u2)
+![Editar-tarefa](https://i.imgur.com/lhk52u2)
 
-Ao clicar no botão editar tarefa ![lapis-editar](https://imgur.com/tRPSY2H) um modal é aberto e permite ao usuário editar uma tarefa.
+Ao clicar no botão editar tarefa ![lapis-editar](https://i.imgur.com/tRPSY2H) um modal é aberto e permite ao usuário editar uma tarefa.
 
-![Editar-perfil](https://imgur.com/fjQP4kR)
+![Editar-perfil](https://i.imgur.com/fjQP4kR)
 
-Ao clicar no botão editar profile ![botao-profile](https://imgur.com/0GVdVpm) um modal é aberto e permite ao usuário editar o seu perfil.
+Ao clicar no botão editar profile ![botao-profile](https://i.imgur.com/0GVdVpm) um modal é aberto e permite ao usuário editar o seu perfil.
 
-![Filtrar-trasação](https://imgur.com/wgaYx9U)
+![Filtrar-trasação](https://i.imgur.com/wgaYx9U)
 
-Ao clicar no botão de filtrar uma transação ![botao-filtro](https://imgur.com/ES3s0Oo), ele permite ao usuario filtrar uma transação por uma categoria opcional.
+Ao clicar no botão de filtrar uma transação ![botao-filtro](https://i.imgur.com/ES3s0Oo), ele permite ao usuario filtrar uma transação por uma categoria opcional.
 
-![fitrar-data](https://imgur.com/IWOrO71)
+![fitrar-data](https://i.imgur.com/IWOrO71)
 
 Permite ao usuário listar as transações por ordem mais recente e mais antiga.
 
-![lixeira](https://imgur.com/BwFaZW9)
+![lixeira](https://i.imgur.com/BwFaZW9)
 
 Exclui uma transação selecionada
 
-![logOff](https://imgur.com/v0EaqOF)
+![logOff](https://i.imgur.com/v0EaqOF)
 
 ao clicar para sair o usuario é deslogado e seus dados são limpos do localStorage
 
