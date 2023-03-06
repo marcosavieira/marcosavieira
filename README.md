@@ -11,15 +11,14 @@ Sobre o projeto, é uma aplicação para administração de despesas pessoais.
 Segue algumas imagens da aplicação.
 
 <div>
-  <img src="https://i.imgur.com/2B4EG8B.png" alt="Linguagens e Bibliotecas">
   <span>Linguagens de programação e bibliotecas usadas:</span>
-  
+  <div>
     <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="html">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript">
     <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="React">
     <img src="https://user-images.githubusercontent.com/16843090/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png" alt="Axios">
-    
+   </div>
   
 </div>
 
